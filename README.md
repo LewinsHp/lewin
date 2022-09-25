@@ -9,8 +9,8 @@
 
 Junior Web Designer & Web Developer located in Indonesia, Creating design & programming contents in [Lewinp](https://www.instagram.com/lewinp_/ "Lewinp").
 
-- 🔭 I’m currently studying **Software Engineering** at Universitas Siliwangi
-- 🌱 I’m currently learning **WordPress**, **Laravel** and **React**
+- 🔭 I’m junior programming **Framework Laravel** 
+- 🌱 I’m currently learning **WordPress**, **Laravel** and **Vue Js**
 - ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 💬 I'm mostly active within the **Facebook**, **Instagram**, **Dev.to** and **Youtube** communities
