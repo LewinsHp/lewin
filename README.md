@@ -7,7 +7,7 @@
 ![React](https://img.shields.io/badge/React-Beginner-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
 
-Junior Web Designer & Web Developer located in Indonesia, Creating design & programming contents in [Syaucademy](https://www.instagram.com/lewinp_/ "Lewinp").
+Junior Web Designer & Web Developer located in Indonesia, Creating design & programming contents in [Lewinp](https://www.instagram.com/lewinp_/ "Lewinp").
 
 - 🔭 I’m currently studying **Software Engineering** at Universitas Siliwangi
 - 🌱 I’m currently learning **WordPress**, **Laravel** and **React**
